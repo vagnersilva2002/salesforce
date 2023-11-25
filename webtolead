@@ -27,11 +27,15 @@
 
 <label for="email">Email</label><input  id="email" maxlength="80" name="email" size="20" type="text" /><br>
 
+<label for="phone">Telefone</label><input  id="phone" maxlength="40" name="phone" size="20" type="text" /><br>
+
 Data:<span class="dateInput dateOnlyInput"><input  id="00NHs00000VyO6X" name="00NHs00000VyO6X" size="12" type="text" /></span><br>
 
 Horário:<span class="timeContainer"><input  id="00NHs00000VyO6c" name="00NHs00000VyO6c" placeholder="HH:MM" size="12" type="text" /></span><br>
 
 Número de pessoas:<input  id="00NHs00000VyO6h" name="00NHs00000VyO6h" size="20" type="text" /><br>
+
+Observações:<input  id="00NHs00000VyO6m" maxlength="200" name="00NHs00000VyO6m" size="20" type="text" /><br>
 
 <input type="submit" name="submit">
 
